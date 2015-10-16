@@ -1,0 +1,150 @@
+/*Css Okupatumente*/
+*{
+    margin: 0 auto;
+    padding: 0;
+    font: Arial, Helvetica;
+}
+
+/* MEDIA QUERYs BOOTSTRAP */
+
+/* Small devices (tablets, 768px and up) 
+@media (min-width: @screen-sm-min) { 768px }
+
+/* Medium devices (desktops, 992px and up)
+@media (min-width: @screen-md-min) { 992px }
+
+/* Large devices (large desktops, 1200px and up) 
+@media (min-width: @screen-lg-min) { 1200px }
+
+/* MEDIA QUERYs BOOTSTRAP */
+
+
+
+
+
+body {
+    background-image: url(../img/fondo.jpg); 
+    margin: 0 auto; 
+    background-size: 1390px; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    width: 100%;
+
+}
+#logo{
+    
+    position: absolute;
+    width: 10em;
+    margin: 4em 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------- COMIENZO CUERPO -----------------*/
+#cuerpo{    
+    margin: 0 auto; 
+    padding: 2%; 
+    height: 100%; 
+    width: 70%;
+    margin-bottom: -2.5em;
+    }
+/*--------------------------------------------------------------------------------------------------- FINAL CUERPO -----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------- COMIENZO CABECERA -----------------*/
+
+#cabecera{
+    margin-top:2em;
+    height: 10em;
+    width: 100%;
+    background-image: url(../img/cabecera.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat; 
+}
+/*--------------------------------------------------------------------------------------------------- FINAL CABECERA -----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------- COMIENZO CONTENIDO -----------------*/
+#contenido{
+    margin-top: 1em; 
+    margin-bottom: 3em;
+    padding: 1em; 
+    height: 100%; 
+    width: 100%;
+    background-color: rgb(248,248,248); 
+    opacity: 0.4;
+}
+
+
+/*--------------------------------------------------------------------------------------------------- FINAL CONTENIDO -----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
